@@ -1,7 +1,7 @@
 # Projeto-Pipa
 Participantes:
-Dioginis
-Patrick
-Guilherme
-Isabela
+Dioginis,
+Patrick,
+Guilherme,
+Isabela,
 Douglas
